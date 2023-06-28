@@ -43,7 +43,7 @@
   <p align="center">Grid Genre Page</p>
 </div>
 
-## Testing Something
+## b Something
 ## Prerequests
 
 - Create an account if you don't have on [TMDB](https://www.themoviedb.org/).
